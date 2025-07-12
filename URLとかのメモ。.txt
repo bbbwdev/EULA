@@ -1,0 +1,6 @@
+https://bbbwdev.github.io/EULA/RePlayer
+
+
+github
+https://github.com/bbbwdev/EULA.git　がリポジトリ。
+ログイン時はAuthenticatorAppを使用する。
